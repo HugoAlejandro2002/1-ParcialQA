@@ -1,0 +1,3 @@
+6.1) Se requiere crear los unit test necesarios para garantizar para el método getStringDate()
+     especificamente para el año 2024 retorna el dia en string basado en la fecha en el formato YYYY-MM-DD,
+     solo se deben crear los unit test,  el método bajo testeo se compartirá
